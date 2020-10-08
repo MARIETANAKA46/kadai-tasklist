@@ -4,6 +4,8 @@
     <head>
         <meta charset="UTF-8">
         <title>タスク管理</title>
+        <link rel="stylesheet" href="/tasklist/css/reset.css">
+        <link rel="stylesheet" href="/tasklist/css/style.css">
     </head>
     <body>
      <div id="wrapper">
